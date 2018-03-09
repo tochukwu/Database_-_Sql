@@ -1,0 +1,34 @@
+c:\users\abdusamed\documents\visual studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe.config
+c:\users\abdusamed\documents\visual studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.vbprojResolveAssemblyReference.cache
+c:\users\abdusamed\documents\visual studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.frmMain.resources
+c:\users\abdusamed\documents\visual studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.Resources.resources
+c:\users\abdusamed\documents\visual studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.vbproj.GenerateResource.Cache
+c:\users\abdusamed\documents\visual studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.xml
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.pdb
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.xml
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.exe
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.pdb
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.AddActivity.resources
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.DeleteActivity.resources
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.amend.resources
+C:\Users\abdusamed\Documents\Visual Studio 2015\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.VIEW.resources
+E:\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe.config
+E:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.exe
+E:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.xml
+E:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.pdb
+F:\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe.config
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.exe
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.xml
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.pdb
+F:\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.exe
+F:\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.pdb
+F:\DatabaseAssignment\DatabaseAssignment\bin\Debug\DatabaseAssignment.xml
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.vbprojResolveAssemblyReference.cache
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.AddActivity.resources
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.amend.resources
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.DeleteActivity.resources
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.frmMain.resources
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.Resources.resources
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.VIEW.resources
+F:\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.vbproj.GenerateResource.Cache
